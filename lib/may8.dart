@@ -4,6 +4,7 @@ import 'dart:io';
 import 'package:path_provider/path_provider.dart';
 import 'main.dart';
 
+//https://stackoverflow.com/questions/61668052/how-to-i-take-the-return-statement-of-a-future-and-put-it-in-a-widget/61668242#61668242
 class FirstScreen extends StatelessWidget {
   @override
   Widget build(BuildContext ctxt) {
